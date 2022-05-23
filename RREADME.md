@@ -1,1 +1,0 @@
-# Arquivo simples de hello world para ver se está tudo funcionando.
